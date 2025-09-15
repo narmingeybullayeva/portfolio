@@ -20,7 +20,6 @@ const Hero = () => {
                         <h1 className="text-5xl  md:text-7xl leading-[1.5] font-bold bg-gradient-to-r from-blue-600 via-purple-600 to-blue-800 bg-clip-text text-transparent animate-fade-in">
                             Software Engineer
                         </h1>
-                        <p className="text-xl md:text-2xl text-gray-600 font-light max-w-3xl mx-auto leading-relaxed">
                         <p className="text-xl md:text-2xl text-gray-600 dark:text-gray-300 font-light max-w-3xl mx-auto leading-relaxed">
                             Passionate about creating clean, efficient web experiences with
                             <span className="font-semibold text-blue-600"> 6 years of experience</span> in programming and
